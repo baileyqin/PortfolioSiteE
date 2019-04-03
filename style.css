@@ -31,17 +31,19 @@
   width: 33%;
   float: left;
 }
+}
 @media (max-width: 800px) {
   .grid-item {
   width: 50%;
   float: left;
+}
 }
 @media (max-width: 400px) {
   .grid-item {
   width: 100%;
   float: left;
   }
-
+}
 #box{
 	text-align: center;
 	display: inline-block;
@@ -49,13 +51,13 @@
 }  
 #body{
 	margin: auto;
-	
 }
 
-#indivphotos{
-	width:500px;
-	
+.ramen{
+	width: 1000px;
+	height: auto;
 }
+
 
 /*
 #photos {
