@@ -42,6 +42,15 @@
   float: left;
   }
 
+#box{
+	text-align: center;
+	display: inline-block;
+	margin: 0 auto 0 auto;
+}  
+#body{
+	margin: auto;
+	
+}
 /*
 #photos {
  
