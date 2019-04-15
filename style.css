@@ -53,9 +53,16 @@
 	margin: auto;
 }
 
+<<<<<<< HEAD
 .ramen{
 	width: 1000px;
 	height: auto;
+}	
+=======
+.SingleImage{
+	width:500px;
+}	
+>>>>>>> 74bcdff9d739aba61d810d5c4890d4890e98880c
 }
 
 
