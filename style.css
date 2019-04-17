@@ -102,6 +102,12 @@
   padding: 18px;
   font-size: 25px;
   letter-spacing: 10px;
+  
+  /*center project caption*/
+  margin: 0;
+  position: absolute;
+  -ms-transform: translate(-50%,-250%);
+  transform: translate(-50%,-250%);
 }
 /*
 #photos {
